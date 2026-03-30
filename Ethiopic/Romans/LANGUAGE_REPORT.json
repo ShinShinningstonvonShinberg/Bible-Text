@@ -1,0 +1,6181 @@
+{
+  "book": "Romans",
+  "overall_classification": "genuine_geez",
+  "overall_geez_ratio": 38.785,
+  "overall_confidence": "high",
+  "source": "YouVersion_3177",
+  "total_verses": 431,
+  "geez_verses": 422,
+  "amharic_verses": 1,
+  "mixed_verses": 8,
+  "empty_verses": 0,
+  "chapters": {
+    "10": {
+      "file": "romans10_ethiopic_verses.txt",
+      "classification": "genuine_geez",
+      "geez_ratio": 19.0,
+      "geez_marker_count": 72.2,
+      "amharic_marker_count": 3.8,
+      "total_verses": 21,
+      "geez_verses": 21,
+      "amharic_verses": 0,
+      "mixed_verses": 0,
+      "empty_verses": 0,
+      "verses": {
+        "1": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ከመ",
+            "ኵሉ",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 2.0,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "2": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "እስመ",
+            "ከመ",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 2.1,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "3": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "እስመ",
+            "\\bኢ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 2.4,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "4": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ውእቱ",
+            "ሎሙ",
+            "ቦቱ",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [
+            "\\bየ[\\u1200-\\u137F]+"
+          ],
+          "geez_count": 3.3,
+          "amharic_count": 0.4,
+          "ratio": 8.25,
+          "flagged_words": []
+        },
+        "5": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ኵሉ",
+            "ይቤ",
+            "ቦቱ",
+            "\\bዘ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 3.8,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "6": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ከመ",
+            "ውእቱ",
+            "\\bኢ[\\u1200-\\u137F]+",
+            "\\bዘ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [
+            "\\bየ[\\u1200-\\u137F]+"
+          ],
+          "geez_count": 3.5,
+          "amharic_count": 0.4,
+          "ratio": 8.75,
+          "flagged_words": []
+        },
+        "7": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ውእቱ",
+            "ውስተ",
+            "\\bዘ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [
+            "ላይ"
+          ],
+          "geez_count": 2.6,
+          "amharic_count": 1.0,
+          "ratio": 2.6,
+          "flagged_words": []
+        },
+        "8": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ውእቱ",
+            "ውስተ",
+            "ይቤ",
+            "[\\u1200-\\u137F]+ክሙ\\b",
+            "\\bዘ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 5.6,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "9": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ከመ",
+            "ውእቱ",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 3.7,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "10": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ቦቱ",
+            "\\bዘ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [
+            "\\bየ[\\u1200-\\u137F]+"
+          ],
+          "geez_count": 3.8,
+          "amharic_count": 0.4,
+          "ratio": 9.5,
+          "flagged_words": []
+        },
+        "11": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ወይቤ",
+            "ኵሉ",
+            "ይቤ",
+            "ቦቱ",
+            "\\bዘ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [
+            "\\bየ[\\u1200-\\u137F]+"
+          ],
+          "geez_count": 4.8,
+          "amharic_count": 0.4,
+          "ratio": 12.0,
+          "flagged_words": []
+        },
+        "12": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "እስመ",
+            "ኵሉ",
+            "\\bኢ[\\u1200-\\u137F]+",
+            "\\bዘ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 4.2,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "13": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "እስመ",
+            "ኵሉ",
+            "\\bዘ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [
+            "\\bየ[\\u1200-\\u137F]+"
+          ],
+          "geez_count": 2.5,
+          "amharic_count": 0.4,
+          "ratio": 6.25,
+          "flagged_words": []
+        },
+        "14": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ቦቱ",
+            "\\bኢ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [
+            "\\bየ[\\u1200-\\u137F]+"
+          ],
+          "geez_count": 2.4,
+          "amharic_count": 0.4,
+          "ratio": 6.0,
+          "flagged_words": []
+        },
+        "15": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ከመ",
+            "ሎሙ",
+            "ይቤ",
+            "[\\u1200-\\u137F]+ሆሙ\\b",
+            "\\bዘ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 7.6,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "16": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ሎሙ",
+            "ይቤ",
+            "\\bኢ[\\u1200-\\u137F]+",
+            "\\bዘ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [
+            "\\bየ[\\u1200-\\u137F]+"
+          ],
+          "geez_count": 4.6,
+          "amharic_count": 0.4,
+          "ratio": 11.5,
+          "flagged_words": []
+        },
+        "17": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 0.6,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "18": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ኵሉ",
+            "ውስተ",
+            "ይቤ",
+            "\\bኢ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 4.3,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "19": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "\\bኢ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 1.1,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "20": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ይቤ",
+            "\\bኢ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 3.7,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "21": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ኀበ",
+            "ሎሙ",
+            "ይቤ",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 3.6,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        }
+      }
+    },
+    "11": {
+      "file": "romans11_ethiopic_verses.txt",
+      "classification": "genuine_geez",
+      "geez_ratio": 49.864,
+      "geez_marker_count": 109.7,
+      "amharic_marker_count": 2.2,
+      "total_verses": 36,
+      "geez_verses": 34,
+      "amharic_verses": 0,
+      "mixed_verses": 2,
+      "empty_verses": 0,
+      "verses": {
+        "1": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "\\bዘ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 0.6,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "2": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ኀበ",
+            "ይቤ",
+            "አመ",
+            "\\bኢ[\\u1200-\\u137F]+",
+            "\\bዘ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 5.8,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "3": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 0.9,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "4": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ይቤ",
+            "\\bኢ[\\u1200-\\u137F]+",
+            "\\bዘ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 2.7,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "5": {
+          "classification": "no_markers",
+          "geez_markers_found": [],
+          "amharic_markers_found": [],
+          "geez_count": 0.0,
+          "amharic_count": 0.0,
+          "ratio": 0.0,
+          "flagged_words": []
+        },
+        "6": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "\\bኢ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 2.2,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "7": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "\\bኢ[\\u1200-\\u137F]+",
+            "\\bዘ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [
+            "\\bየ[\\u1200-\\u137F]+"
+          ],
+          "geez_count": 2.0,
+          "amharic_count": 0.4,
+          "ratio": 5.0,
+          "flagged_words": []
+        },
+        "8": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ከመ",
+            "ይቤ",
+            "[\\u1200-\\u137F]+ሆሙ\\b",
+            "\\bኢ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 6.3,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "9": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ይቤ",
+            "[\\u1200-\\u137F]+ሆሙ\\b",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 3.3,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "10": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ኵሉ",
+            "[\\u1200-\\u137F]+ሆሙ\\b",
+            "\\bዘ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 4.1,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "11": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ከመ",
+            "ላዕለ",
+            "በእንተ"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 3.6,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "12": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ሶበ",
+            "[\\u1200-\\u137F]+ሆሙ\\b",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 4.3,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "13": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "[\\u1200-\\u137F]+ሆሙ\\b",
+            "[\\u1200-\\u137F]+ክሙ\\b"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 2.0,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "14": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ከመ",
+            "ዝንቱ",
+            "[\\u1200-\\u137F]+ሆሙ\\b",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 3.4,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "15": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "እስመ",
+            "[\\u1200-\\u137F]+ሆሙ\\b"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 2.0,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "16": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 0.9,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "17": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ኀበ",
+            "[\\u1200-\\u137F]+ሆሙ\\b",
+            "\\bዘ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 4.5,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "18": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ላዕለ",
+            "\\bዘ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 2.2,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "19": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "[\\u1200-\\u137F]+ሆሙ\\b",
+            "\\bዘ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 1.9,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "20": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "እስመ",
+            "አመ",
+            "\\bኢ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 4.4,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "21": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ሶበ",
+            "\\bኢ[\\u1200-\\u137F]+",
+            "\\bዘ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 2.4,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "22": {
+          "classification": "uncertain_mixed",
+          "geez_markers_found": [
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [
+            "ነበር"
+          ],
+          "geez_count": 1.2,
+          "amharic_count": 1.0,
+          "ratio": 1.2,
+          "flagged_words": []
+        },
+        "23": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ሎሙ",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 2.3,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "24": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ውስተ",
+            "ሎሙ",
+            "[\\u1200-\\u137F]+ሆሙ\\b",
+            "\\bዘ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 6.2,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "25": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "እስመ",
+            "ከመ",
+            "ኵሉ",
+            "ንሕነ",
+            "አመ",
+            "[\\u1200-\\u137F]+ክሙ\\b",
+            "\\bኢ[\\u1200-\\u137F]+",
+            "\\bዘ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 7.4,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "26": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ከመ",
+            "ኵሉ",
+            "ይቤ",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [
+            "\\bየ[\\u1200-\\u137F]+"
+          ],
+          "geez_count": 3.3,
+          "amharic_count": 0.4,
+          "ratio": 8.25,
+          "flagged_words": []
+        },
+        "27": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ሎሙ",
+            "ቦቱ",
+            "አመ",
+            "[\\u1200-\\u137F]+ሆሙ\\b",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 4.3,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "28": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "በእንተ",
+            "[\\u1200-\\u137F]+ክሙ\\b",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 2.6,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "29": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "እስመ"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 1.0,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "30": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ከመ",
+            "አንትሙ",
+            "[\\u1200-\\u137F]+ክሙ\\b",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 4.9,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "31": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ከመ",
+            "ሎሙ"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 2.8,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "32": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "እስመ",
+            "ከመ",
+            "ኵሉ",
+            "ውስተ",
+            "\\bዘ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 4.9,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "33": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "\\bዘ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 1.5,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "34": {
+          "classification": "uncertain_mixed",
+          "geez_markers_found": [
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [
+            "\\bየ[\\u1200-\\u137F]+"
+          ],
+          "geez_count": 0.6,
+          "amharic_count": 0.4,
+          "ratio": 1.5,
+          "flagged_words": []
+        },
+        "35": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 0.6,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "36": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "እስመ",
+            "ኵሉ",
+            "ሎቱ",
+            "ቦቱ",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 6.6,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        }
+      }
+    },
+    "12": {
+      "file": "romans12_ethiopic_verses.txt",
+      "classification": "genuine_geez",
+      "geez_ratio": 9.25,
+      "geez_marker_count": 55.5,
+      "amharic_marker_count": 6.0,
+      "total_verses": 21,
+      "geez_verses": 20,
+      "amharic_verses": 0,
+      "mixed_verses": 1,
+      "empty_verses": 0,
+      "verses": {
+        "1": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "[\\u1200-\\u137F]+ክሙ\\b",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 5.2,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "2": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "አመ",
+            "[\\u1200-\\u137F]+ክሙ\\b",
+            "\\bኢ[\\u1200-\\u137F]+",
+            "\\bዘ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 5.2,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "3": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ከመ",
+            "ኵሉ",
+            "[\\u1200-\\u137F]+ክሙ\\b",
+            "\\bኢ[\\u1200-\\u137F]+",
+            "\\bዘ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 7.8,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "4": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ከመ",
+            "ውስተ",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 1.8,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "5": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ንሕነ"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 1.0,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "6": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "[\\u1200-\\u137F]+ክሙ\\b",
+            "\\bዘ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 2.2,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "7": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 0.6,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "8": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ከመ",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 1.7,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "9": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "\\bዘ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 0.9,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "10": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "[\\u1200-\\u137F]+ክሙ\\b",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 3.9,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "11": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "\\bኢ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 1.1,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "12": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "[\\u1200-\\u137F]+ክሙ\\b"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 3.0,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "13": {
+          "classification": "no_markers",
+          "geez_markers_found": [],
+          "amharic_markers_found": [],
+          "geez_count": 0.0,
+          "amharic_count": 0.0,
+          "ratio": 0.0,
+          "flagged_words": []
+        },
+        "14": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "[\\u1200-\\u137F]+ክሙ\\b",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 1.3,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "15": {
+          "classification": "uncertain_mixed",
+          "geez_markers_found": [
+            "\\bዘ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [
+            "ስለ"
+          ],
+          "geez_count": 1.5,
+          "amharic_count": 2.0,
+          "ratio": 0.75,
+          "flagged_words": []
+        },
+        "16": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ከመ",
+            "[\\u1200-\\u137F]+ክሙ\\b",
+            "\\bኢ[\\u1200-\\u137F]+",
+            "\\bዘ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [
+            "ስለ"
+          ],
+          "geez_count": 4.9,
+          "amharic_count": 1.0,
+          "ratio": 4.9,
+          "flagged_words": []
+        },
+        "17": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ንሕነ",
+            "[\\u1200-\\u137F]+ክሙ\\b",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [
+            "ስለ"
+          ],
+          "geez_count": 3.6,
+          "amharic_count": 1.0,
+          "ratio": 3.6,
+          "flagged_words": []
+        },
+        "18": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ኵሉ",
+            "[\\u1200-\\u137F]+ክሙ\\b",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [
+            "ስለ"
+          ],
+          "geez_count": 2.2,
+          "amharic_count": 1.0,
+          "ratio": 2.2,
+          "flagged_words": []
+        },
+        "19": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "እስመ",
+            "ከመ",
+            "ይቤ",
+            "[\\u1200-\\u137F]+ክሙ\\b",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 5.4,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "20": {
+          "classification": "likely_geez",
+          "geez_markers_found": [
+            "ዲበ",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [
+            "እሱ"
+          ],
+          "geez_count": 1.9,
+          "amharic_count": 1.0,
+          "ratio": 1.9,
+          "flagged_words": []
+        },
+        "21": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 0.3,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        }
+      }
+    },
+    "13": {
+      "file": "romans13_ethiopic_verses.txt",
+      "classification": "genuine_geez",
+      "geez_ratio": 34.571,
+      "geez_marker_count": 48.4,
+      "amharic_marker_count": 1.4,
+      "total_verses": 14,
+      "geez_verses": 14,
+      "amharic_verses": 0,
+      "mixed_verses": 0,
+      "empty_verses": 0,
+      "verses": {
+        "1": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "እስመ",
+            "ከመ",
+            "ውእቱ",
+            "ኵሉ",
+            "ኀበ",
+            "ሎቱ",
+            "\\bኢ[\\u1200-\\u137F]+",
+            "\\bዘ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 9.3,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "2": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 0.6,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "3": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "[\\u1200-\\u137F]+ሆሙ\\b",
+            "\\bኢ[\\u1200-\\u137F]+",
+            "\\bዘ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [
+            "\\bየ[\\u1200-\\u137F]+"
+          ],
+          "geez_count": 4.1,
+          "amharic_count": 0.4,
+          "ratio": 10.25,
+          "flagged_words": []
+        },
+        "4": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "እስመ",
+            "ከመ",
+            "\\bኢ[\\u1200-\\u137F]+",
+            "\\bዘ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 5.6,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "5": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 0.6,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "6": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "እስመ",
+            "ሎሙ",
+            "በእንተ",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 3.6,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "7": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ኵሉ",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 2.7,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "8": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "[\\u1200-\\u137F]+ክሙ\\b",
+            "\\bዘ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 3.8,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "9": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "እስመ",
+            "ከመ",
+            "ኵሉ",
+            "ይቤ",
+            "ቦቱ",
+            "\\bኢ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [
+            "እሱ"
+          ],
+          "geez_count": 8.1,
+          "amharic_count": 1.0,
+          "ratio": 8.1,
+          "flagged_words": []
+        },
+        "10": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ውእቱ",
+            "\\bኢ[\\u1200-\\u137F]+",
+            "\\bዘ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 2.4,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "11": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ከመ",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 1.4,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "12": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 1.2,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "13": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ከመ",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 2.9,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "14": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "[\\u1200-\\u137F]+ክሙ\\b",
+            "\\bኢ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 2.1,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        }
+      }
+    },
+    "14": {
+      "file": "romans14_ethiopic_verses.txt",
+      "classification": "genuine_geez",
+      "geez_ratio": 22.679,
+      "geez_marker_count": 63.5,
+      "amharic_marker_count": 2.8,
+      "total_verses": 23,
+      "geez_verses": 22,
+      "amharic_verses": 0,
+      "mixed_verses": 1,
+      "empty_verses": 0,
+      "verses": {
+        "1": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 0.9,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "2": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ከመ",
+            "ኵሉ",
+            "ሎቱ",
+            "\\bዘ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [
+            "\\bየ[\\u1200-\\u137F]+"
+          ],
+          "geez_count": 3.6,
+          "amharic_count": 0.4,
+          "ratio": 9.0,
+          "flagged_words": []
+        },
+        "3": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "እስመ",
+            "ሎሙ",
+            "\\bኢ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 5.0,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "4": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "\\bዘ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 1.2,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "5": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "እስመ",
+            "ከመ",
+            "ኵሉ",
+            "\\bዘ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 5.4,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "6": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ኵሉ",
+            "\\bኢ[\\u1200-\\u137F]+",
+            "\\bዘ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 4.6,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "7": {
+          "classification": "uncertain_mixed",
+          "geez_markers_found": [
+            "\\bዘ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [
+            "እሱ",
+            "\\bየ[\\u1200-\\u137F]+"
+          ],
+          "geez_count": 1.2,
+          "amharic_count": 2.4,
+          "ratio": 0.5,
+          "flagged_words": []
+        },
+        "8": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ንሕነ",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 1.9,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "9": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ከመ",
+            "በእንተ",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 2.7,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "10": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "እስመ",
+            "\\bዘ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 2.5,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "11": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "እስመ",
+            "ከመ",
+            "ኵሉ",
+            "ይቤ",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 5.9,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "12": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ከመ",
+            "ኀበ"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 1.8,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "13": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 0.6,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "14": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ከመ",
+            "ኵሉ",
+            "አመ",
+            "\\bኢ[\\u1200-\\u137F]+",
+            "\\bዘ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 4.7,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "15": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ዝኩ",
+            "\\bዘ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 1.9,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "16": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ላዕለ",
+            "\\bኢ[\\u1200-\\u137F]+",
+            "\\bዘ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 2.4,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "17": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "እስመ",
+            "\\bኢ[\\u1200-\\u137F]+",
+            "\\bዘ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 3.3,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "18": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ከመ",
+            "ኀበ",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 3.4,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "19": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 0.3,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "20": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ኵሉ",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 1.8,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "21": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "\\bኢ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 1.4,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "22": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "\\bዘ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 1.2,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "23": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "እስመ",
+            "ውእቱ",
+            "ኵሉ",
+            "\\bኢ[\\u1200-\\u137F]+",
+            "\\bዘ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 5.8,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        }
+      }
+    },
+    "15": {
+      "file": "romans15_ethiopic_verses.txt",
+      "classification": "genuine_geez",
+      "geez_ratio": 24.316,
+      "geez_marker_count": 92.4,
+      "amharic_marker_count": 3.8,
+      "total_verses": 33,
+      "geez_verses": 32,
+      "amharic_verses": 0,
+      "mixed_verses": 1,
+      "empty_verses": 0,
+      "verses": {
+        "1": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "አንትሙ",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 1.6,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "2": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 0.6,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "3": {
+          "classification": "likely_geez",
+          "geez_markers_found": [
+            "ከመ",
+            "\\bዘ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [
+            "እሱ"
+          ],
+          "geez_count": 1.7,
+          "amharic_count": 1.0,
+          "ratio": 1.7,
+          "flagged_words": []
+        },
+        "4": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ከመ",
+            "ኵሉ",
+            "\\bዘ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 2.9,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "5": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "በእንተ",
+            "\\bኢ[\\u1200-\\u137F]+",
+            "\\bዘ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [
+            "\\bየ[\\u1200-\\u137F]+"
+          ],
+          "geez_count": 3.0,
+          "amharic_count": 0.4,
+          "ratio": 7.5,
+          "flagged_words": []
+        },
+        "6": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ከመ"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 0.8,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "7": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "እስመ",
+            "ውስተ",
+            "[\\u1200-\\u137F]+ክሙ\\b",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 4.0,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "8": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ከመ",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 1.1,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "9": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "እስመ",
+            "ውስተ",
+            "ሎሙ",
+            "ይቤ",
+            "በእንተ",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 6.3,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "10": {
+          "classification": "uncertain_mixed",
+          "geez_markers_found": [
+            "ይቤ",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [
+            "ስለ"
+          ],
+          "geez_count": 1.3,
+          "amharic_count": 1.0,
+          "ratio": 1.3,
+          "flagged_words": []
+        },
+        "11": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ሎሙ",
+            "ይቤ",
+            "[\\u1200-\\u137F]+ክሙ\\b",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 3.6,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "12": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ይቤ",
+            "ቦቱ",
+            "\\bኢ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 3.4,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "13": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ከመ",
+            "[\\u1200-\\u137F]+ክሙ\\b",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 3.7,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "14": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ከመ",
+            "ኵሉ",
+            "አንትሙ",
+            "አመ",
+            "[\\u1200-\\u137F]+ክሙ\\b",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 7.5,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "15": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "በእንተ",
+            "[\\u1200-\\u137F]+ክሙ\\b",
+            "\\bዘ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 2.9,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "16": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ከመ",
+            "ውስተ",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 3.7,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "17": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ኀበ",
+            "\\bኢ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 2.1,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "18": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ኀበ",
+            "\\bዘ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 2.2,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "19": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ከመ",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 2.0,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "20": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ከመ",
+            "ዲበ",
+            "ኀበ",
+            "\\bኢ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 4.2,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "21": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ከመ",
+            "\\bኢ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [
+            "ነው"
+          ],
+          "geez_count": 2.7,
+          "amharic_count": 1.0,
+          "ratio": 2.7,
+          "flagged_words": []
+        },
+        "22": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "[\\u1200-\\u137F]+ክሙ\\b",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 1.6,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "23": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "እስመ",
+            "[\\u1200-\\u137F]+ክሙ\\b",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 3.3,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "24": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ከመ",
+            "[\\u1200-\\u137F]+ክሙ\\b",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 4.7,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "25": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "\\bኢ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 1.1,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "26": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "እስመ",
+            "ሎሙ",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 3.9,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "27": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ከመ",
+            "\\bዘ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 1.4,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "28": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "[\\u1200-\\u137F]+ክሙ\\b",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 1.6,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "29": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ከመ",
+            "አመ",
+            "[\\u1200-\\u137F]+ክሙ\\b",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 3.1,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "30": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ኀበ",
+            "[\\u1200-\\u137F]+ክሙ\\b",
+            "\\bኢ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 4.4,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "31": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ከመ"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 1.6,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "32": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ከመ",
+            "[\\u1200-\\u137F]+ክሙ\\b",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 3.1,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "33": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "[\\u1200-\\u137F]+ክሙ\\b",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [
+            "\\bየ[\\u1200-\\u137F]+"
+          ],
+          "geez_count": 1.3,
+          "amharic_count": 0.4,
+          "ratio": 3.25,
+          "flagged_words": []
+        }
+      }
+    },
+    "16": {
+      "file": "romans16_ethiopic_verses.txt",
+      "classification": "genuine_geez",
+      "geez_ratio": 13.769,
+      "geez_marker_count": 71.6,
+      "amharic_marker_count": 5.2,
+      "total_verses": 27,
+      "geez_verses": 26,
+      "amharic_verses": 0,
+      "mixed_verses": 1,
+      "empty_verses": 0,
+      "verses": {
+        "1": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "[\\u1200-\\u137F]+ክሙ\\b",
+            "\\bዘ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 1.6,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "2": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "እስመ",
+            "ከመ",
+            "ውስተ",
+            "[\\u1200-\\u137F]+ክሙ\\b",
+            "\\bዘ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [
+            "ስለ"
+          ],
+          "geez_count": 5.7,
+          "amharic_count": 1.0,
+          "ratio": 5.7,
+          "flagged_words": []
+        },
+        "3": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "\\bኢ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 1.1,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "4": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ሎሙ",
+            "በእንተ",
+            "\\bዘ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [
+            "ናት"
+          ],
+          "geez_count": 3.5,
+          "amharic_count": 1.0,
+          "ratio": 3.5,
+          "flagged_words": []
+        },
+        "5": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ውእቱ",
+            "ውስተ",
+            "\\bዘ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 2.9,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "6": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "[\\u1200-\\u137F]+ክሙ\\b"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 1.0,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "7": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ከመ",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 1.7,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "8": {
+          "classification": "no_markers",
+          "geez_markers_found": [],
+          "amharic_markers_found": [],
+          "geez_count": 0.0,
+          "amharic_count": 0.0,
+          "ratio": 0.0,
+          "flagged_words": []
+        },
+        "9": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "\\bዘ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 0.9,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "10": {
+          "classification": "no_markers",
+          "geez_markers_found": [],
+          "amharic_markers_found": [],
+          "geez_count": 0.0,
+          "amharic_count": 0.0,
+          "ratio": 0.0,
+          "flagged_words": []
+        },
+        "11": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ውስተ",
+            "\\bዘ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 1.3,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "12": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 0.3,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "13": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 0.6,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "14": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "[\\u1200-\\u137F]+ሆሙ\\b",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 2.5,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "15": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ሎሙ",
+            "[\\u1200-\\u137F]+ሆሙ\\b",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 3.2,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "16": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ኵሉ",
+            "[\\u1200-\\u137F]+ክሙ\\b",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 3.5,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "17": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ባቲ",
+            "ላዕለ",
+            "[\\u1200-\\u137F]+ክሙ\\b",
+            "\\bዘ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 6.2,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "18": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "እስመ",
+            "\\bኢ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [
+            "\\bየ[\\u1200-\\u137F]+"
+          ],
+          "geez_count": 2.7,
+          "amharic_count": 0.4,
+          "ratio": 6.75,
+          "flagged_words": []
+        },
+        "19": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "[\\u1200-\\u137F]+ክሙ\\b",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 3.2,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "20": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ታሕተ",
+            "[\\u1200-\\u137F]+ክሙ\\b",
+            "\\bኢ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [
+            "\\bየ[\\u1200-\\u137F]+"
+          ],
+          "geez_count": 4.1,
+          "amharic_count": 0.4,
+          "ratio": 10.25,
+          "flagged_words": []
+        },
+        "21": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "[\\u1200-\\u137F]+ክሙ\\b",
+            "\\bዘ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 2.5,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "22": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ዛቲ",
+            "[\\u1200-\\u137F]+ክሙ\\b",
+            "\\bዘ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 2.9,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "23": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ኵሉ",
+            "[\\u1200-\\u137F]+ክሙ\\b",
+            "\\bዘ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [
+            "ናት"
+          ],
+          "geez_count": 4.1,
+          "amharic_count": 1.0,
+          "ratio": 4.1,
+          "flagged_words": []
+        },
+        "24": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ውእቱ",
+            "ባቲ",
+            "ላዕለ",
+            "በእንተ",
+            "[\\u1200-\\u137F]+ክሙ\\b",
+            "\\bኢ[\\u1200-\\u137F]+",
+            "\\bዘ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 7.6,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "25": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ከመ",
+            "ኵሉ",
+            "\\bዘ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 3.5,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "26": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ውእቱ",
+            "ሎቱ",
+            "\\bዘ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 3.2,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "27": {
+          "classification": "uncertain_mixed",
+          "geez_markers_found": [
+            "[\\u1200-\\u137F]+ክሙ\\b",
+            "\\bኢ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [
+            "ስለ",
+            "\\bየ[\\u1200-\\u137F]+"
+          ],
+          "geez_count": 1.8,
+          "amharic_count": 1.4,
+          "ratio": 1.286,
+          "flagged_words": []
+        }
+      }
+    },
+    "1": {
+      "file": "romans1_ethiopic_verses.txt",
+      "classification": "genuine_geez",
+      "geez_ratio": 49.792,
+      "geez_marker_count": 119.5,
+      "amharic_marker_count": 2.4,
+      "total_verses": 32,
+      "geez_verses": 32,
+      "amharic_verses": 0,
+      "mixed_verses": 0,
+      "empty_verses": 0,
+      "verses": {
+        "1": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "\\bኢ[\\u1200-\\u137F]+",
+            "\\bዘ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 2.3,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "2": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "\\bዘ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 0.9,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "3": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "በእንተ",
+            "\\bዘ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 2.2,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "4": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ከመ",
+            "ውእቱ",
+            "\\bኢ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 4.3,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "5": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ከመ",
+            "ቦቱ",
+            "\\bዘ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 3.0,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "6": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ከመ",
+            "አንትሙ",
+            "[\\u1200-\\u137F]+ክሙ\\b"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 2.8,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "7": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ሎሙ",
+            "[\\u1200-\\u137F]+ክሙ\\b",
+            "\\bኢ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 4.0,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "8": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "እስመ",
+            "ኵሉ",
+            "ውስተ",
+            "በእንተ",
+            "[\\u1200-\\u137F]+ክሙ\\b"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 5.6,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "9": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ከመ",
+            "ኵሉ",
+            "አመ",
+            "[\\u1200-\\u137F]+ክሙ\\b",
+            "\\bዘ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 5.8,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "10": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ከመ",
+            "[\\u1200-\\u137F]+ክሙ\\b",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 2.1,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "11": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "እስመ",
+            "ከመ",
+            "ኀበ",
+            "በእንተ",
+            "[\\u1200-\\u137F]+ክሙ\\b",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 8.9,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "12": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ከመ",
+            "[\\u1200-\\u137F]+ክሙ\\b",
+            "\\bዘ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 3.0,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "13": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ከመ",
+            "ላዕለ",
+            "[\\u1200-\\u137F]+ክሙ\\b",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 3.9,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "14": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "እስመ",
+            "ኵሉ",
+            "ላዕለ",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 5.1,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "15": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "[\\u1200-\\u137F]+ክሙ\\b",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 2.3,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "16": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "እስመ",
+            "ውእቱ",
+            "ሎሙ",
+            "ቦቱ",
+            "\\bኢ[\\u1200-\\u137F]+",
+            "\\bዘ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [
+            "\\bየ[\\u1200-\\u137F]+"
+          ],
+          "geez_count": 7.0,
+          "amharic_count": 0.4,
+          "ratio": 17.5,
+          "flagged_words": []
+        },
+        "17": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "እስመ",
+            "ቦቱ",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [
+            "\\bየ[\\u1200-\\u137F]+"
+          ],
+          "geez_count": 4.6,
+          "amharic_count": 0.8,
+          "ratio": 5.75,
+          "flagged_words": []
+        },
+        "18": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ኵሉ",
+            "ላዕለ",
+            "[\\u1200-\\u137F]+ሆሙ\\b",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [
+            "\\bየ[\\u1200-\\u137F]+"
+          ],
+          "geez_count": 3.8,
+          "amharic_count": 0.4,
+          "ratio": 9.5,
+          "flagged_words": []
+        },
+        "19": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "እስመ",
+            "[\\u1200-\\u137F]+ሆሙ\\b",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 3.3,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "20": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ከመ",
+            "አመ",
+            "\\bኢ[\\u1200-\\u137F]+",
+            "\\bዘ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 5.2,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "21": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "እስመ",
+            "ከመ",
+            "[\\u1200-\\u137F]+ሆሙ\\b",
+            "\\bዘ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [
+            "\\bየ[\\u1200-\\u137F]+"
+          ],
+          "geez_count": 5.5,
+          "amharic_count": 0.4,
+          "ratio": 13.75,
+          "flagged_words": []
+        },
+        "22": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 0.3,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "23": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "እስመ",
+            "ከመ",
+            "\\bዘ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 5.5,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "24": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ከመ",
+            "በእንተ",
+            "[\\u1200-\\u137F]+ሆሙ\\b",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 3.7,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "25": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "እስመ",
+            "ውእቱ",
+            "ኵሉ",
+            "\\bዘ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 4.4,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "26": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "በእንተ",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 2.2,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "27": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ዲበ",
+            "ላዕለ",
+            "[\\u1200-\\u137F]+ሆሙ\\b",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 6.5,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "28": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ከመ",
+            "\\bኢ[\\u1200-\\u137F]+",
+            "\\bዘ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 4.2,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "29": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ኵሉ",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 2.4,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "30": {
+          "classification": "no_markers",
+          "geez_markers_found": [],
+          "amharic_markers_found": [],
+          "geez_count": 0.0,
+          "amharic_count": 0.0,
+          "ratio": 0.0,
+          "flagged_words": []
+        },
+        "31": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 0.9,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "32": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ከመ",
+            "[\\u1200-\\u137F]+ሆሙ\\b",
+            "\\bዘ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [
+            "\\bየ[\\u1200-\\u137F]+"
+          ],
+          "geez_count": 3.8,
+          "amharic_count": 0.4,
+          "ratio": 9.5,
+          "flagged_words": []
+        }
+      }
+    },
+    "2": {
+      "file": "romans2_ethiopic_verses.txt",
+      "classification": "genuine_geez",
+      "geez_ratio": 62.5,
+      "geez_marker_count": 87.5,
+      "amharic_marker_count": 1.4,
+      "total_verses": 29,
+      "geez_verses": 29,
+      "amharic_verses": 0,
+      "mixed_verses": 0,
+      "empty_verses": 0,
+      "verses": {
+        "1": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "እስመ",
+            "ላዕለ",
+            "ሶበ",
+            "\\bዘ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 6.8,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "2": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ከመ",
+            "ላዕለ",
+            "\\bዘ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 3.8,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "3": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ኀበ",
+            "ዝንቱ",
+            "ዝኩ",
+            "ላዕለ",
+            "ሶበ",
+            "\\bዘ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 5.9,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "4": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ከመ",
+            "ኀበ",
+            "ሎቱ",
+            "\\bኢ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 4.2,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "5": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "አመ",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 1.6,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "6": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "እስመ",
+            "ከመ",
+            "ውእቱ",
+            "ኵሉ"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 3.7,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "7": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ውእቱ",
+            "\\bዘ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 2.5,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "8": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "[\\u1200-\\u137F]+ሆሙ\\b",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 2.2,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "9": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ኵሉ",
+            "\\bዘ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 2.7,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "10": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ኵሉ",
+            "\\bዘ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 2.4,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "11": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "እስመ",
+            "\\bኢ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 1.8,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "12": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "እስመ",
+            "ሎሙ",
+            "[\\u1200-\\u137F]+ሆሙ\\b",
+            "\\bዘ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 8.5,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "13": {
+          "classification": "no_markers",
+          "geez_markers_found": [],
+          "amharic_markers_found": [],
+          "geez_count": 0.0,
+          "amharic_count": 0.0,
+          "ratio": 0.0,
+          "flagged_words": []
+        },
+        "14": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ሎሙ",
+            "[\\u1200-\\u137F]+ሆሙ\\b",
+            "\\bዘ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 4.2,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "15": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ውእቱ",
+            "ውስተ",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 2.9,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "16": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ከመ",
+            "ውስተ",
+            "በእንተ",
+            "አመ",
+            "\\bኢ[\\u1200-\\u137F]+",
+            "\\bዘ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [
+            "\\bየ[\\u1200-\\u137F]+"
+          ],
+          "geez_count": 7.2,
+          "amharic_count": 0.4,
+          "ratio": 18.0,
+          "flagged_words": []
+        },
+        "17": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ሶበ",
+            "\\bዘ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 2.2,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "18": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "\\bዘ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 1.5,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "19": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ከመ",
+            "ውስተ",
+            "አመ",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 3.1,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "20": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "[\\u1200-\\u137F]+ሆሙ\\b",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [
+            "ናት"
+          ],
+          "geez_count": 2.2,
+          "amharic_count": 1.0,
+          "ratio": 2.2,
+          "flagged_words": []
+        },
+        "21": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "\\bኢ[\\u1200-\\u137F]+",
+            "\\bዘ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 2.6,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "22": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ኀበ",
+            "\\bኢ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 3.0,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "23": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 0.9,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "24": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ከመ",
+            "ላዕለ",
+            "[\\u1200-\\u137F]+ክሙ\\b",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 3.1,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "25": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "\\bኢ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 1.1,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "26": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 0.6,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "27": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ዝኩ",
+            "\\bዘ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 3.1,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "28": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 0.3,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "29": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ከመ",
+            "ኀበ",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 3.4,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        }
+      }
+    },
+    "3": {
+      "file": "romans3_ethiopic_verses.txt",
+      "classification": "genuine_geez",
+      "geez_ratio": 52.071,
+      "geez_marker_count": 72.9,
+      "amharic_marker_count": 1.4,
+      "total_verses": 30,
+      "geez_verses": 29,
+      "amharic_verses": 1,
+      "mixed_verses": 0,
+      "empty_verses": 0,
+      "verses": {
+        "1": {
+          "classification": "likely_amharic",
+          "geez_markers_found": [
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [
+            "ይህ"
+          ],
+          "geez_count": 0.3,
+          "amharic_count": 1.0,
+          "ratio": 0.3,
+          "flagged_words": []
+        },
+        "2": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ውእቱ",
+            "ኵሉ",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 2.2,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "3": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ከመ",
+            "\\bኢ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 3.5,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "4": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "እስመ",
+            "ከመ",
+            "ኵሉ",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 5.1,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "5": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ላዕለ",
+            "ሶበ",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 2.6,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "6": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 0.3,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "7": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ከመ",
+            "ውእቱ",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 2.7,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "8": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ከመ",
+            "ሎሙ",
+            "ንሕነ",
+            "\\bዘ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 6.6,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "9": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "እስመ",
+            "ሎሙ",
+            "[\\u1200-\\u137F]+ሆሙ\\b",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 3.6,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "10": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ከመ",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 1.1,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "11": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "\\bዘ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 0.9,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "12": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ኵሉ",
+            "\\bዘ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 2.1,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "13": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ከመ",
+            "[\\u1200-\\u137F]+ሆሙ\\b",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 2.1,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "14": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ታሕተ",
+            "[\\u1200-\\u137F]+ሆሙ\\b",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 3.3,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "15": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "[\\u1200-\\u137F]+ሆሙ\\b"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 1.0,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "16": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ውስተ",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 1.0,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "17": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 0.3,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "18": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "[\\u1200-\\u137F]+ሆሙ\\b",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 1.3,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "19": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ከመ",
+            "ኵሉ",
+            "ውስተ",
+            "ሎሙ",
+            "ይቤ",
+            "\\bዘ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 7.9,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "20": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "እስመ",
+            "ኵሉ",
+            "\\bኢ[\\u1200-\\u137F]+",
+            "\\bዘ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 4.3,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "21": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "\\bኢ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 0.8,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "22": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "እስመ",
+            "ሎሙ",
+            "\\bኢ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 3.7,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "23": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 0.3,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "24": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "እስመ",
+            "ከመ",
+            "ላዕለ",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 3.4,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "25": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ከመ",
+            "ውእቱ",
+            "ሎቱ",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [
+            "\\bየ[\\u1200-\\u137F]+"
+          ],
+          "geez_count": 4.2,
+          "amharic_count": 0.4,
+          "ratio": 10.5,
+          "flagged_words": []
+        },
+        "26": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "\\bዘ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 0.9,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "27": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "እስመ",
+            "ከመ",
+            "\\bኢ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 2.6,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "28": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 0.3,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "29": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "እስመ",
+            "ውእቱ",
+            "\\bዘ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 2.9,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "30": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "በእንተ",
+            "\\bዘ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 1.6,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        }
+      }
+    },
+    "4": {
+      "file": "romans4_ethiopic_verses.txt",
+      "classification": "genuine_geez",
+      "geez_ratio": 112.875,
+      "geez_marker_count": 90.3,
+      "amharic_marker_count": 0.8,
+      "total_verses": 24,
+      "geez_verses": 24,
+      "amharic_verses": 0,
+      "mixed_verses": 0,
+      "empty_verses": 0,
+      "verses": {
+        "1": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "በእንተ",
+            "[\\u1200-\\u137F]+ሆሙ\\b",
+            "\\bዘ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 2.6,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "2": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ሶበ",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 1.3,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "3": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 0.6,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "4": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ከመ",
+            "\\bኢ[\\u1200-\\u137F]+",
+            "\\bዘ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 3.9,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "5": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "አመ",
+            "\\bኢ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 2.1,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "6": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ከመ",
+            "ኀበ",
+            "\\bኢ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 2.9,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "7": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ወይቤ",
+            "ሎሙ",
+            "ይቤ",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 3.3,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "8": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ሎቱ",
+            "\\bዘ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 1.9,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "9": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ኀበ",
+            "ይቤ",
+            "\\bዘ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 3.2,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "10": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "\\bዘ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 1.8,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "11": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ከመ",
+            "ውእቱ",
+            "ሎሙ",
+            "[\\u1200-\\u137F]+ሆሙ\\b",
+            "\\bኢ[\\u1200-\\u137F]+",
+            "\\bዘ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [
+            "\\bየ[\\u1200-\\u137F]+"
+          ],
+          "geez_count": 9.8,
+          "amharic_count": 0.4,
+          "ratio": 24.5,
+          "flagged_words": []
+        },
+        "12": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ከመ",
+            "ውእቱ",
+            "[\\u1200-\\u137F]+ሆሙ\\b",
+            "\\bኢ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 6.3,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "13": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ከመ",
+            "ቦቱ",
+            "በእንተ",
+            "\\bዘ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 4.9,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "14": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ሶበ",
+            "\\bዘ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 2.2,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "15": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "እስመ",
+            "ዲበ",
+            "ኀበ",
+            "\\bዘ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 4.5,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "16": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ከመ",
+            "በእንተ",
+            "\\bዘ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 5.8,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "17": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ከመ",
+            "ይቤ",
+            "[\\u1200-\\u137F]+ሆሙ\\b",
+            "\\bኢ[\\u1200-\\u137F]+",
+            "\\bዘ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [
+            "\\bየ[\\u1200-\\u137F]+"
+          ],
+          "geez_count": 6.5,
+          "amharic_count": 0.4,
+          "ratio": 16.25,
+          "flagged_words": []
+        },
+        "18": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ወይቤ",
+            "ከመ",
+            "ይቤ",
+            "ወይቤሎ",
+            "አመ",
+            "[\\u1200-\\u137F]+ሆሙ\\b",
+            "\\bዘ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 7.8,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "19": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "እስመ",
+            "ከመ",
+            "ውእቱ",
+            "አመ",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 7.6,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "20": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ከመ",
+            "ኵሉ",
+            "ሎቱ",
+            "አመ",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 4.3,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "21": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 0.3,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "22": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ዝንቱ",
+            "\\bዘ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 1.9,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "23": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "አመ"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 1.0,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "24": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ከመ",
+            "በእንተ",
+            "\\bዘ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 3.8,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        }
+      }
+    },
+    "5": {
+      "file": "romans5_ethiopic_verses.txt",
+      "classification": "genuine_geez",
+      "geez_ratio": "Infinity",
+      "geez_marker_count": 81.9,
+      "amharic_marker_count": 0.0,
+      "total_verses": 21,
+      "geez_verses": 21,
+      "amharic_verses": 0,
+      "mixed_verses": 0,
+      "empty_verses": 0,
+      "verses": {
+        "1": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ኀበ",
+            "\\bኢ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 2.1,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "2": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ውእቱ",
+            "ውስተ",
+            "ዛቲ",
+            "ባቲ",
+            "\\bዘ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 5.9,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "3": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "እስመ",
+            "ከመ",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 2.1,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "4": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 0.6,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "5": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "እስመ",
+            "ውስተ",
+            "\\bኢ[\\u1200-\\u137F]+",
+            "\\bዘ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 3.4,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "6": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ንሕነ",
+            "በእንተ"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 2.0,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "7": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "\\bኢ[\\u1200-\\u137F]+",
+            "\\bዘ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 2.9,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "8": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ንሕነ"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 1.0,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "9": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "\\bዘ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 0.9,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "10": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ከመ",
+            "ንሕነ",
+            "ሶበ",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 4.0,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "11": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ኀበ",
+            "ዝንቱ",
+            "በእንተ",
+            "\\bኢ[\\u1200-\\u137F]+",
+            "\\bዘ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 5.4,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "12": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ከመ",
+            "ኵሉ",
+            "ውስተ",
+            "ይእቲ",
+            "ላዕለ",
+            "በእንተ",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 9.2,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "13": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "እስመ",
+            "ውስተ",
+            "ይእቲ",
+            "አመ",
+            "\\bኢ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 7.1,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "14": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "እስመ",
+            "ውእቱ",
+            "ኵሉ",
+            "ይእቲ",
+            "በእንተ",
+            "\\bኢ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 7.3,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "15": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ውእቱ",
+            "ላዕለ",
+            "በእንተ",
+            "ሶበ",
+            "\\bኢ[\\u1200-\\u137F]+",
+            "\\bዘ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 7.5,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "16": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ኵሉ",
+            "ባቲ",
+            "ላዕለ",
+            "ሶበ",
+            "\\bዘ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 6.3,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "17": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ሶበ",
+            "\\bኢ[\\u1200-\\u137F]+",
+            "\\bዘ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 3.6,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "18": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ከመ",
+            "ኵሉ",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 2.9,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "19": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ከመ",
+            "በእንተ",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 2.1,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "20": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ከመ",
+            "ኀበ",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 2.4,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "21": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ከመ",
+            "ውስተ",
+            "\\bኢ[\\u1200-\\u137F]+",
+            "\\bዘ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 3.2,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        }
+      }
+    },
+    "6": {
+      "file": "romans6_ethiopic_verses.txt",
+      "classification": "genuine_geez",
+      "geez_ratio": "Infinity",
+      "geez_marker_count": 96.7,
+      "amharic_marker_count": 0.0,
+      "total_verses": 23,
+      "geez_verses": 23,
+      "amharic_verses": 0,
+      "mixed_verses": 0,
+      "empty_verses": 0,
+      "verses": {
+        "1": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ከመ"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 0.8,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "2": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ባቲ",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 1.3,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "3": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ከመ",
+            "ውስተ",
+            "[\\u1200-\\u137F]+ክሙ\\b",
+            "\\bኢ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 3.6,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "4": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ከመ",
+            "ውእቱ",
+            "ውስተ",
+            "ንሕነ",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 5.3,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "5": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 0.3,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "6": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ከመ",
+            "ውእቱ",
+            "\\bዘ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 3.8,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "7": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "እስመ",
+            "\\bዘ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 1.6,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "8": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ከመ",
+            "አመ",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 2.9,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "9": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ከመ",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 1.4,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "10": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 0.9,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "11": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "አንትሙ",
+            "በእንተ",
+            "[\\u1200-\\u137F]+ክሙ\\b",
+            "\\bኢ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 4.4,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "12": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ዝንቱ",
+            "ላዕለ",
+            "[\\u1200-\\u137F]+ክሙ\\b",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 4.9,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "13": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ከመ",
+            "[\\u1200-\\u137F]+ክሙ\\b",
+            "\\bዘ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 5.3,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "14": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "እስመ",
+            "ውስተ",
+            "[\\u1200-\\u137F]+ክሙ\\b",
+            "\\bኢ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 6.4,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "15": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "እስመ",
+            "ውስተ",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 2.3,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "16": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ከመ",
+            "ውስተ",
+            "ኀበ",
+            "ሎቱ",
+            "አንትሙ",
+            "[\\u1200-\\u137F]+ክሙ\\b",
+            "\\bዘ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 17.6,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "17": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ኵሉ",
+            "አንትሙ",
+            "[\\u1200-\\u137F]+ክሙ\\b"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 4.9,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "18": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "[\\u1200-\\u137F]+ክሙ\\b",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 2.6,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "19": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "እስመ",
+            "ከመ",
+            "[\\u1200-\\u137F]+ክሙ\\b",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 7.7,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "20": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "እስመ",
+            "አመ",
+            "[\\u1200-\\u137F]+ክሙ\\b"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 4.0,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "21": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "እስመ",
+            "ውእቱ",
+            "ሎቱ",
+            "ቦቱ",
+            "[\\u1200-\\u137F]+ክሙ\\b",
+            "\\bዘ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 5.9,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "22": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "[\\u1200-\\u137F]+ክሙ\\b",
+            "\\bዘ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 5.8,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "23": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "እስመ",
+            "\\bኢ[\\u1200-\\u137F]+",
+            "\\bዘ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 3.0,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        }
+      }
+    },
+    "7": {
+      "file": "romans7_ethiopic_verses.txt",
+      "classification": "genuine_geez",
+      "geez_ratio": 40.55,
+      "geez_marker_count": 81.1,
+      "amharic_marker_count": 2.0,
+      "total_verses": 25,
+      "geez_verses": 24,
+      "amharic_verses": 0,
+      "mixed_verses": 1,
+      "empty_verses": 0,
+      "verses": {
+        "1": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "እስመ",
+            "ውእቱ",
+            "[\\u1200-\\u137F]+ክሙ\\b",
+            "\\bኢ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 3.8,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "2": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ከመ",
+            "ይእቲ",
+            "ባቲ",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 4.7,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "3": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "\\bዘ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 1.5,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "4": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ከመ",
+            "በእንተ",
+            "[\\u1200-\\u137F]+ክሙ\\b",
+            "\\bዘ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 4.5,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "5": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 0.6,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "6": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ከመ",
+            "\\bዘ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 2.3,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "7": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ይእቲ",
+            "ሶበ",
+            "\\bኢ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 6.0,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "8": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ይእቲ",
+            "\\bዘ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 3.5,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "9": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ሶበ",
+            "\\bዘ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 2.5,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "10": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ወኮነ",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 1.3,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "11": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "እስመ",
+            "ይእቲ",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 2.6,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "12": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ውእቱ",
+            "ይእቲ",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 3.2,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "13": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ከመ",
+            "ውእቱ",
+            "ይእቲ",
+            "ዝኩ",
+            "ሶበ",
+            "አመ",
+            "\\bዘ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 9.1,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "14": {
+          "classification": "uncertain_mixed",
+          "geez_markers_found": [
+            "ከመ",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [
+            "ወደ"
+          ],
+          "geez_count": 1.4,
+          "amharic_count": 1.0,
+          "ratio": 1.4,
+          "flagged_words": []
+        },
+        "15": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "እስመ",
+            "\\bኢ[\\u1200-\\u137F]+",
+            "\\bዘ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 3.3,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "16": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ከመ",
+            "ዝኩ",
+            "\\bዘ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 2.7,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "17": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ውእቱ",
+            "ይእቲ",
+            "\\bኢ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 3.1,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "18": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ከመ",
+            "በእንተ",
+            "\\bኢ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 3.2,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "19": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "\\bዘ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 2.1,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "20": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ይእቲ",
+            "\\bኢ[\\u1200-\\u137F]+",
+            "\\bዘ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 3.3,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "21": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ውእቱ",
+            "ዝኩ",
+            "\\bዘ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 2.9,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "22": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ውእቱ",
+            "ውስተ",
+            "\\bዘ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 2.3,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "23": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ውስተ",
+            "ዝኩ",
+            "\\bዘ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [
+            "ስለ"
+          ],
+          "geez_count": 6.8,
+          "amharic_count": 1.0,
+          "ratio": 6.8,
+          "flagged_words": []
+        },
+        "24": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ዝንቱ"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 1.0,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "25": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ሎቱ",
+            "በእንተ",
+            "\\bኢ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 3.4,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        }
+      }
+    },
+    "8": {
+      "file": "romans8_ethiopic_verses.txt",
+      "classification": "genuine_geez",
+      "geez_ratio": 111.833,
+      "geez_marker_count": 134.2,
+      "amharic_marker_count": 1.2,
+      "total_verses": 39,
+      "geez_verses": 38,
+      "amharic_verses": 0,
+      "mixed_verses": 1,
+      "empty_verses": 0,
+      "verses": {
+        "1": {
+          "classification": "uncertain_mixed",
+          "geez_markers_found": [
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [
+            "\\bየ[\\u1200-\\u137F]+"
+          ],
+          "geez_count": 0.3,
+          "amharic_count": 0.4,
+          "ratio": 0.75,
+          "flagged_words": []
+        },
+        "2": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "እስመ",
+            "ውእቱ",
+            "\\bዘ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 3.5,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "3": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ይእቲ",
+            "ላዕለ",
+            "በእንተ",
+            "ሶበ",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 4.9,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "4": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ከመ",
+            "\\bዘ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [
+            "\\bየ[\\u1200-\\u137F]+"
+          ],
+          "geez_count": 3.6,
+          "amharic_count": 0.4,
+          "ratio": 9.0,
+          "flagged_words": []
+        },
+        "5": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "እስመ",
+            "ሎሙ",
+            "ዝንቱ",
+            "\\bዘ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 5.1,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "6": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 0.9,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "7": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "እስመ",
+            "ውእቱ",
+            "\\bኢ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 4.1,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "8": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "እስመ",
+            "ሎሙ",
+            "\\bኢ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 2.8,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "9": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "እስመ",
+            "ውእቱ",
+            "አንትሙ",
+            "[\\u1200-\\u137F]+ክሙ\\b",
+            "\\bዘ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 7.4,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "10": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "[\\u1200-\\u137F]+ክሙ\\b",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 3.6,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "11": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ውእቱ",
+            "[\\u1200-\\u137F]+ክሙ\\b",
+            "\\bዘ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 5.2,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "12": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "\\bኢ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 1.1,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "13": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "እስመ",
+            "ሎሙ",
+            "[\\u1200-\\u137F]+ክሙ\\b",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 3.3,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "14": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "እስመ",
+            "ሎሙ",
+            "\\bዘ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 2.6,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "15": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ሎቱ",
+            "[\\u1200-\\u137F]+ክሙ\\b",
+            "\\bዘ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 6.1,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "16": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ከመ",
+            "ውእቱ",
+            "ንሕነ"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 2.8,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "17": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ከመ",
+            "ንሕነ",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 11.3,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "18": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ከመ",
+            "ዛቲ",
+            "\\bኢ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 3.2,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "19": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "እስመ"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 1.0,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "20": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "እስመ"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 1.0,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "21": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ከመ",
+            "ውስተ",
+            "ዝንቱ",
+            "ቦቱ",
+            "\\bዘ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 5.0,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "22": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ከመ",
+            "ኵሉ",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 2.0,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "23": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "እስመ",
+            "ንሕነ",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 3.3,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "24": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "\\bኢ[\\u1200-\\u137F]+",
+            "\\bዘ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 2.3,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "25": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ከመ",
+            "\\bዘ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 2.8,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "26": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ውእቱ",
+            "በእንተ",
+            "\\bኢ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 4.0,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "27": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ውእቱ",
+            "ኀበ",
+            "በእንተ",
+            "\\bዘ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [
+            "\\bየ[\\u1200-\\u137F]+"
+          ],
+          "geez_count": 4.5,
+          "amharic_count": 0.4,
+          "ratio": 11.25,
+          "flagged_words": []
+        },
+        "28": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ከመ",
+            "ኵሉ",
+            "ውስተ"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 2.4,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "29": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "እስመ",
+            "ከመ",
+            "ውእቱ",
+            "ላዕለ",
+            "[\\u1200-\\u137F]+ሆሙ\\b",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 5.7,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "30": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "[\\u1200-\\u137F]+ሆሙ\\b",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 3.9,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "31": {
+          "classification": "no_markers",
+          "geez_markers_found": [],
+          "amharic_markers_found": [],
+          "geez_count": 0.0,
+          "amharic_count": 0.0,
+          "ratio": 0.0,
+          "flagged_words": []
+        },
+        "32": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ውእቱ",
+            "በእንተ",
+            "\\bኢ[\\u1200-\\u137F]+",
+            "\\bዘ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 4.0,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "33": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ውእቱ",
+            "\\bዘ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 1.9,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "34": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "\\bኢ[\\u1200-\\u137F]+",
+            "\\bዘ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 2.3,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "35": {
+          "classification": "no_markers",
+          "geez_markers_found": [],
+          "amharic_markers_found": [],
+          "geez_count": 0.0,
+          "amharic_count": 0.0,
+          "ratio": 0.0,
+          "flagged_words": []
+        },
+        "36": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ከመ",
+            "ወኮነ",
+            "ይቤ",
+            "\\bዘ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 4.5,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "37": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "እስመ",
+            "ውእቱ",
+            "ኵሉ",
+            "በእንተ",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 4.2,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "38": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ከመ",
+            "አመ",
+            "\\bኢ[\\u1200-\\u137F]+",
+            "\\bዘ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 4.7,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "39": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "\\bኢ[\\u1200-\\u137F]+",
+            "\\bዘ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 2.9,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        }
+      }
+    },
+    "9": {
+      "file": "romans9_ethiopic_verses.txt",
+      "classification": "genuine_geez",
+      "geez_ratio": 95.6,
+      "geez_marker_count": 95.6,
+      "amharic_marker_count": 1.0,
+      "total_verses": 33,
+      "geez_verses": 33,
+      "amharic_verses": 0,
+      "mixed_verses": 0,
+      "empty_verses": 0,
+      "verses": {
+        "1": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ውስተ",
+            "በእንተ",
+            "[\\u1200-\\u137F]+ክሙ\\b",
+            "\\bዘ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 3.9,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "2": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ከመ",
+            "ኵሉ",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 2.0,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "3": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ከመ",
+            "በእንተ",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 2.4,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "4": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ሎሙ",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 6.5,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "5": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ውእቱ",
+            "[\\u1200-\\u137F]+ሆሙ\\b",
+            "\\bዘ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 3.2,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "6": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ሎሙ",
+            "\\bኢ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 2.1,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "7": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ሎሙ",
+            "ይቤ",
+            "\\bዘ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 4.1,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "8": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "እስመ",
+            "\\bዘ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 1.6,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "9": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ወይቤ",
+            "እስመ",
+            "ከመ",
+            "ይቤ",
+            "ወይቤሎ",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 5.7,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "10": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 0.3,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "11": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ከመ",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 1.7,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "12": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ወይቤ",
+            "ከመ",
+            "ውእቱ",
+            "ይቤ",
+            "\\bኢ[\\u1200-\\u137F]+",
+            "\\bዘ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 7.5,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "13": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "እስመ",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 1.3,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "14": {
+          "classification": "no_markers",
+          "geez_markers_found": [],
+          "amharic_markers_found": [],
+          "geez_count": 0.0,
+          "amharic_count": 0.0,
+          "ratio": 0.0,
+          "flagged_words": []
+        },
+        "15": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ወይቤ",
+            "ይቤ",
+            "ወይቤሎ",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 3.6,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "16": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "\\bኢ[\\u1200-\\u137F]+",
+            "\\bዘ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 1.7,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "17": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ወይቤ",
+            "ከመ",
+            "ኵሉ",
+            "ይቤ",
+            "ወይቤሎ",
+            "በእንተ",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 6.3,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "18": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 0.3,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "19": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "\\bዘ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 0.6,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "20": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ከመ",
+            "\\bኢ[\\u1200-\\u137F]+",
+            "\\bዘ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 2.2,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "21": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "\\bኢ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 1.1,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "22": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 0.3,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "23": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ከመ",
+            "ላዕለ",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 2.4,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "24": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ውስተ",
+            "ንሕነ",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 2.3,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "25": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ከመ",
+            "ይቤ",
+            "\\bኢ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 2.9,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "26": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ኀበ",
+            "ይቤ",
+            "[\\u1200-\\u137F]+ክሙ\\b",
+            "\\bኢ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 4.1,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "27": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ወይቤ",
+            "ከመ",
+            "ይቤ",
+            "በእንተ",
+            "\\bኢ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 4.9,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "28": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "እስመ",
+            "ውስተ",
+            "\\bዘ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 2.6,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "29": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "ከመ",
+            "ሶበ",
+            "\\bኢ[\\u1200-\\u137F]+",
+            "\\bዘ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 6.0,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "30": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "\\bኢ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 1.1,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "31": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "እስመ",
+            "\\bኢ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [
+            "ግን"
+          ],
+          "geez_count": 2.1,
+          "amharic_count": 1.0,
+          "ratio": 2.1,
+          "flagged_words": []
+        },
+        "32": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "እስመ",
+            "በእንተ",
+            "\\bኢ[\\u1200-\\u137F]+",
+            "\\bዘ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 3.7,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        },
+        "33": {
+          "classification": "genuine_geez",
+          "geez_markers_found": [
+            "እስመ",
+            "ውስተ",
+            "ይቤ",
+            "ባቲ",
+            "\\bኢ[\\u1200-\\u137F]+",
+            "\\bወ[\\u1200-\\u137F]+"
+          ],
+          "amharic_markers_found": [],
+          "geez_count": 5.1,
+          "amharic_count": 0.0,
+          "ratio": "Infinity",
+          "flagged_words": []
+        }
+      }
+    }
+  },
+  "flagged_verses": [
+    {
+      "chapter": 11,
+      "verse": 22,
+      "ratio": 1.2,
+      "geez_markers": [
+        "\\bወ[\\u1200-\\u137F]+"
+      ],
+      "amharic_markers": [
+        "ነበር"
+      ],
+      "text_preview": "ርኢ እንከ ምሕረቶሂ ወአጥብዖቶሂ ለእግዚአብሔር ለእለሰ ወድቁ አውቀዮሙ ወለከሰ "
+    },
+    {
+      "chapter": 11,
+      "verse": 34,
+      "ratio": 1.5,
+      "geez_markers": [
+        "\\bወ[\\u1200-\\u137F]+"
+      ],
+      "amharic_markers": [
+        "\\bየ[\\u1200-\\u137F]+"
+      ],
+      "text_preview": "ወመኑ የአምር ኅሊናሁ ለእግዚአብሔር ወመኑ ተማከሮ"
+    },
+    {
+      "chapter": 12,
+      "verse": 15,
+      "ratio": 0.75,
+      "geez_markers": [
+        "\\bዘ[\\u1200-\\u137F]+",
+        "\\bወ[\\u1200-\\u137F]+"
+      ],
+      "amharic_markers": [
+        "ስለ"
+      ],
+      "text_preview": "ምስለ ዘይትፌሣሕ ተፈሥሑ ወምስለ ዘይበኪ ብክዩ"
+    },
+    {
+      "chapter": 12,
+      "verse": 20,
+      "ratio": 1.9,
+      "geez_markers": [
+        "ዲበ",
+        "\\bወ[\\u1200-\\u137F]+"
+      ],
+      "amharic_markers": [
+        "እሱ"
+      ],
+      "text_preview": "ወእመኒ ርኅበ ጸላኢከ አብልዖ ወለእመኒ ጸምአ አስትዮ ወዘንተ ለእመ ገበርከ አፍ"
+    },
+    {
+      "chapter": 14,
+      "verse": 7,
+      "ratio": 0.5,
+      "geez_markers": [
+        "\\bዘ[\\u1200-\\u137F]+",
+        "\\bወ[\\u1200-\\u137F]+"
+      ],
+      "amharic_markers": [
+        "እሱ",
+        "\\bየ[\\u1200-\\u137F]+"
+      ],
+      "text_preview": "ወአልቦ እምውስቴትነ ዘለርእሱ የሐዩ ወዘለርእሱ ይመውት"
+    },
+    {
+      "chapter": 15,
+      "verse": 3,
+      "ratio": 1.7,
+      "geez_markers": [
+        "ከመ",
+        "\\bዘ[\\u1200-\\u137F]+",
+        "\\bወ[\\u1200-\\u137F]+"
+      ],
+      "amharic_markers": [
+        "እሱ"
+      ],
+      "text_preview": "ክርስቶስኒ አኮ ለርእሱ ዘአድለወ በከመ ይብል መጽሐፍ «ትዕይርቶሙ ለእለ ይትዔየ"
+    },
+    {
+      "chapter": 15,
+      "verse": 10,
+      "ratio": 1.3,
+      "geez_markers": [
+        "ይቤ",
+        "\\bወ[\\u1200-\\u137F]+"
+      ],
+      "amharic_markers": [
+        "ስለ"
+      ],
+      "text_preview": "ወካዕበ ይቤ መጽሐፍ፤ «ተፈሥሑ አሕዛብ ምስለ ሕዝቡ"
+    },
+    {
+      "chapter": 16,
+      "verse": 27,
+      "ratio": 1.286,
+      "geez_markers": [
+        "[\\u1200-\\u137F]+ክሙ\\b",
+        "\\bኢ[\\u1200-\\u137F]+"
+      ],
+      "amharic_markers": [
+        "ስለ",
+        "\\bየ[\\u1200-\\u137F]+"
+      ],
+      "text_preview": "ጸጋሁ ለእግዚእነ ኢየሱስ ክርስቶስ የሀሉ ምስለ ኵልክሙ አሜን"
+    },
+    {
+      "chapter": 7,
+      "verse": 14,
+      "ratio": 1.4,
+      "geez_markers": [
+        "ከመ",
+        "\\bወ[\\u1200-\\u137F]+"
+      ],
+      "amharic_markers": [
+        "ወደ"
+      ],
+      "text_preview": "ነአምር ከመ ሕገ ኦሪትሰ ለመንፈስ ወአንሰ በሥጋ ወደም ሥዩጥ ለኀጢአት"
+    },
+    {
+      "chapter": 8,
+      "verse": 1,
+      "ratio": 0.75,
+      "geez_markers": [
+        "\\bወ[\\u1200-\\u137F]+"
+      ],
+      "amharic_markers": [
+        "\\bየ[\\u1200-\\u137F]+"
+      ],
+      "text_preview": "ወአልቦሙ እንከ ኵነኔ ለእለ የኀድጉ ምግባረ ሥጋ በኢየሱስ ክርስቶስ"
+    }
+  ]
+}

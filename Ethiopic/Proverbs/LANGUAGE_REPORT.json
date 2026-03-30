@@ -1,0 +1,15 @@
+{
+  "book": "Proverbs",
+  "overall_classification": "amharic",
+  "overall_geez_ratio": 0.123,
+  "overall_confidence": "high",
+  "source": "EOTXC_OCR",
+  "total_verses": 506,
+  "geez_verses": 0,
+  "amharic_verses": 506,
+  "mixed_verses": 0,
+  "empty_verses": 0,
+  "chapters": {},
+  "flagged_verses": [],
+  "note": "Known Amharic placeholder. Quick scan ratio: 0.123"
+}

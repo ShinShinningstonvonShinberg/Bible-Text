@@ -1,0 +1,121 @@
+# Language Report: Philippians
+
+*OpenBible 4.6 — Ge'ez / Amharic Language Audit*
+*Generated: 2026-03-30*
+
+---
+
+## Summary
+
+| Field | Value |
+|---|---|
+| **Book** | Philippians |
+| **Overall Classification** | Genuine Ge'ez |
+| **Ge'ez-to-Amharic Ratio** | 23.260 |
+| **Confidence** | High — classification is statistically robust |
+| **Text Source** | YouVersion_3177 |
+| **Total Verses** | 160 |
+| **Ge'ez Verses** | 156 |
+| **Amharic Verses** | 1 |
+| **Mixed/Uncertain Verses** | 3 |
+| **Empty Verses** | 0 |
+
+**Verse breakdown:** 97.5% Ge'ez · 0.6% Amharic · 1.9% Mixed/Uncertain
+
+---
+
+## Chapter-by-Chapter Overview
+
+| Ch. | File | Classification | Ge'ez:Amharic Ratio | Ge'ez Markers | Amharic Markers | Verses | Mixed |
+|-----|------|----------------|---------------------|---------------|-----------------|--------|-------|
+| 1 | philippians1_ethiopic_verses.txt | Genuine Ge'ez | 46.125 | 110.7 | 2.4 | 49 | 0 |
+| 2 | philippians2_ethiopic_verses.txt | Genuine Ge'ez | 24.675 | 98.7 | 4.0 | 44 | 0 |
+| 3 | philippians3_ethiopic_verses.txt | Genuine Ge'ez | 15.263 | 58.0 | 3.8 | 34 | 1 |
+| 4 | philippians4_ethiopic_verses.txt | Genuine Ge'ez | 16.979 | 81.5 | 4.8 | 33 | 2 |
+
+---
+
+## Flagged Verses for Human Review
+
+**5 verse(s)** scored in the uncertain range (Ge'ez:Amharic ratio between 0.5 and 2.0).
+These may contain mixed language, modernized spellings, or borderline marker distributions.
+A scholar familiar with Classical Ge'ez should review these.
+
+| Ch:Vs | Ratio | Ge'ez Markers Found | Amharic Markers Found | Text Preview |
+|-------|-------|--------------------|-----------------------|--------------|
+| 2:21 | 1.550 | ከመ, ውስተ, [\u1200-\u137F]+ክሙ\b, \bወ[\u1200-\u137F]+ | ነው, ናት | እንዘ አልብክሙ ነውር በማእከለ ውሉድ ዓላውያን ወግፍቱዓን ወታስተርእዩ ከመ ብር |
+| 3:21 | 0.800 | \bኢ[\u1200-\u137F]+ | ስለ | ኦ አኀውየ ሊተሰ ይመስለኒ ዓዲየ ኢነሣእኩ ፍጻሜየ። |
+| 4:12 | 0.714 | [\u1200-\u137F]+ክሙ\b | ስለ, \bየ[\u1200-\u137F]+ | የሀሉ ምስለ ኵልክሙ። |
+| 4:29 | 1.000 | [\u1200-\u137F]+ክሙ\b | ስለ | ምስለ መንፈስክሙ አሜን። |
+| 4:30 | 1.900 | ኀበ, \bወ[\u1200-\u137F]+ | ስለ | ተፈጸመት መልእክት ኀበ ሰብአ ፊልጵስዩስ ወተጽሕፈት በሮሜ ወተፈነወት ምስለ ጢሞ |
+
+---
+
+## Detailed Verse Classifications
+
+Below is a per-verse summary for each chapter. Verses classified as **Genuine Ge'ez** with no Amharic markers are shown in compact form.
+Verses with any Amharic markers or mixed classification are shown in detail.
+
+### Chapter 1
+
+*47 verse(s) classified as clean Ge'ez (no Amharic markers detected).*
+
+| Verse | Classification | Ge'ez Score | Amharic Score | Ratio | Ge'ez Markers | Amharic Markers |
+|-------|---------------|-------------|---------------|-------|---------------|-----------------|
+| 5 | Definite Amharic | 0.3 | 2.0 | 0.150 | \bወ[\u1200-\u137F]+ | ናት, ስለ |
+| 24 | Genuine Ge'ez | 2.1 | 0.4 | 5.250 | እስመ, ከመ, \bወ[\u1200-\u137F]+ | \bየ[\u1200-\u137F]+ |
+
+### Chapter 2
+
+*41 verse(s) classified as clean Ge'ez (no Amharic markers detected).*
+
+| Verse | Classification | Ge'ez Score | Amharic Score | Ratio | Ge'ez Markers | Amharic Markers |
+|-------|---------------|-------------|---------------|-------|---------------|-----------------|
+| 21 | Likely Ge'ez | 3.1 | 2.0 | 1.550 | ከመ, ውስተ, [\u1200-\u137F]+ክሙ\b, \bወ[\u1200-\u137F]+ | ነው, ናት |
+| 30 | Genuine Ge'ez | 2.2 | 1.0 | 2.200 | እስመ, ኵሉ, \bወ[\u1200-\u137F]+ | እሱ |
+| 38 | Genuine Ge'ez | 2.5 | 1.0 | 2.500 | ከመ, \bወ[\u1200-\u137F]+ | ነው |
+
+### Chapter 3
+
+*29 verse(s) classified as clean Ge'ez (no Amharic markers detected).*
+
+| Verse | Classification | Ge'ez Score | Amharic Score | Ratio | Ge'ez Markers | Amharic Markers |
+|-------|---------------|-------------|---------------|-------|---------------|-----------------|
+| 19 | Genuine Ge'ez | 2.7 | 1.0 | 2.700 | \bዘ[\u1200-\u137F]+, \bወ[\u1200-\u137F]+ | ግን |
+| 21 | Uncertain / Mixed | 0.8 | 1.0 | 0.800 | \bኢ[\u1200-\u137F]+ | ስለ |
+| 22 | Genuine Ge'ez | 3.3 | 1.0 | 3.300 | እስመ, ከመ, \bዘ[\u1200-\u137F]+, \bወ[\u1200-\u137F]+ | ግን |
+| 26 | Genuine Ge'ez | 2.5 | 0.4 | 6.250 | ከመ, \bዘ[\u1200-\u137F]+, \bወ[\u1200-\u137F]+ | \bየ[\u1200-\u137F]+ |
+| 27 | Genuine Ge'ez | 6.1 | 0.4 | 15.250 | እስመ, ከመ, [\u1200-\u137F]+ክሙ\b, \bዘ[\u1200-\u137F]+, \bወ[\u1200-\u137F]+ | \bየ[\u1200-\u137F]+ |
+
+### Chapter 4
+
+*28 verse(s) classified as clean Ge'ez (no Amharic markers detected).*
+
+| Verse | Classification | Ge'ez Score | Amharic Score | Ratio | Ge'ez Markers | Amharic Markers |
+|-------|---------------|-------------|---------------|-------|---------------|-----------------|
+| 4 | Genuine Ge'ez | 5.7 | 1.0 | 5.700 | እስመ, ከመ, ውስተ, ሎሙ, [\u1200-\u137F]+ሆሙ\b | ስለ |
+| 12 | Uncertain / Mixed | 1.0 | 1.4 | 0.714 | [\u1200-\u137F]+ክሙ\b | ስለ, \bየ[\u1200-\u137F]+ |
+| 14 | Genuine Ge'ez | 4.9 | 0.4 | 12.250 | እስመ, ከመ, በእንተ, \bዘ[\u1200-\u137F]+, \bወ[\u1200-\u137F]+ | \bየ[\u1200-\u137F]+ |
+| 29 | Uncertain / Mixed | 1.0 | 1.0 | 1.000 | [\u1200-\u137F]+ክሙ\b | ስለ |
+| 30 | Likely Ge'ez | 1.9 | 1.0 | 1.900 | ኀበ, \bወ[\u1200-\u137F]+ | ስለ |
+
+---
+
+## Methodology
+
+This report was generated by a statistical language classifier that counts occurrences of
+language-specific markers (particles, verb forms, pronouns, prepositions) in each verse.
+The classifier uses 39 exact-match Ge'ez markers, 6 Ge'ez regex patterns, 27 exact-match
+Amharic markers, and 1 Amharic regex pattern.
+
+**Classification thresholds** (Ge'ez:Amharic ratio):
+
+- **> 2.0** — Genuine Ge'ez (most authentic Ge'ez scores 10:1 or higher)
+- **1.5–2.0** — Likely Ge'ez
+- **0.5–1.5** — Uncertain/Mixed (flagged for human review)
+- **0.25–0.5** — Likely Amharic
+- **< 0.25** — Definite Amharic
+
+Ge'ez and Amharic share the Ethiopic script (U+1200–U+137F) and have lexical overlap
+as Amharic descends from Ge'ez. The classifier handles this by weighting markers
+according to their diagnostic specificity and relying on statistical aggregation.

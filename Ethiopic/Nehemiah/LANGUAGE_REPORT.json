@@ -1,0 +1,15 @@
+{
+  "book": "Nehemiah",
+  "overall_classification": "amharic",
+  "overall_geez_ratio": 0.703,
+  "overall_confidence": "high",
+  "source": "EOTXC_OCR",
+  "total_verses": 440,
+  "geez_verses": 0,
+  "amharic_verses": 440,
+  "mixed_verses": 0,
+  "empty_verses": 0,
+  "chapters": {},
+  "flagged_verses": [],
+  "note": "Known Amharic placeholder. Quick scan ratio: 0.703"
+}

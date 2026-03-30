@@ -1,0 +1,15 @@
+{
+  "book": "Baruch",
+  "overall_classification": "empty",
+  "overall_geez_ratio": 0,
+  "overall_confidence": "high",
+  "source": "none",
+  "total_verses": 0,
+  "geez_verses": 0,
+  "amharic_verses": 0,
+  "mixed_verses": 0,
+  "empty_verses": 0,
+  "chapters": {},
+  "flagged_verses": [],
+  "note": "Empty book — no files to analyze."
+}
